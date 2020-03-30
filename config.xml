@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="tw.com.foodelivery.edah" version="1.0.0">
     
     <name>義大醫院美食快送</name>
     <description>美食佳餚任君選擇，我們為你一一送上，帶給你意想不到的滋味! 享受熱門優惠。</description>
